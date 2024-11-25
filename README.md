@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">NOT a Developer from Taiwan</h3>
 
 <p align="left"> <a href="https://twitter.com/wuangmike" target="blank"><img src="https://img.shields.io/twitter/follow/wuangmike?logo=twitter&style=for-the-badge" alt="wuangmike" /></a> </p>
 
